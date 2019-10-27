@@ -54,7 +54,7 @@ Pin header J2 on the back
 
 
 ## Front panel PCB
-![Image](IMG_1562.jpg)
+![Image](IMG_1564.jpg)
 
 Start with the ICs, SMD resistors and capacitors. Also solder the through-hole resistors now (I forgot)
 
