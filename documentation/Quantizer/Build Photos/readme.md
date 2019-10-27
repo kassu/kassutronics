@@ -3,7 +3,7 @@
 **Note:** These pictures are intended as extra help in case something is unclear. Please read the complete PDF build documentation before you start soldering!
 
 ## Main PCB
-![Image](IMG_1551.jpg =250x)
+![Image](IMG_1551.jpg)
 
 Precision (0.1%) or hand-matched resistors (12x 10k)
 
