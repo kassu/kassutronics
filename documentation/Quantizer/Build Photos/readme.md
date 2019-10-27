@@ -57,7 +57,7 @@ Now solder the push buttons. Note that each button has 6 legs to solder, but the
 
 The push buttons align quite well if you firmly press them in. Check that they are well seated before soldering, or use the front panel as a guide to align them.
 
-!(IMG_1574.jpg)
+![Image](IMG_1574.jpg)
 Finally solder the LEDs. Use the front panel as a guide to determine their alignment and height. Check the Mechanical Assembly section in the build docs to see how the front panel spacings are done.
 
 Now you are almost done! See the build docs for powerup testing, mechanical assembly, programming the microcontroller and calibration.
