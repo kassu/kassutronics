@@ -26,7 +26,7 @@ If you have a spare Arduino Uno, it can be used as an In-circuit Serial Programm
 | MOSI        | MOSI          |
 | 5V          | 5V3           |
 
-So, the quantizer RST pin connects to digital pin 10 on the Arduino, and all other pins on the ISCP header connect one-to-one between the two boards. See also the picture below:
+So, the quantizer RST pin connects to digital pin 10 on the Arduino, and all other pins on the ISCP header connect one-to-one between the two boards. In the picture below the boards are rotated such that the ISCP headers have pin 1 (MISO) in the top-right corner on both boards. On the Quantizer there is a silkscreen label with the pinout.
 
 ![Arduino ISP connection](ArduinoISPConnection.jpg)
 
