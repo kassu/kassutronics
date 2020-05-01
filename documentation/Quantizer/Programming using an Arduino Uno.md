@@ -17,7 +17,7 @@ If you have a spare Arduino Uno, it can be used as an In-circuit Serial Programm
 5. Locate the 6-pin ICSP header on both the Arduino (labeled _ICSP_) and on the Quantizer (_J1_)
 6. Connect the jumper wires as follows:
 
-| Arduino PIN | Quantizer PIN |
+| Arduino pin | Quantizer pin |
 |-------------|---------------|
 | D10         | RST           |
 | SCK         | SCK           |
