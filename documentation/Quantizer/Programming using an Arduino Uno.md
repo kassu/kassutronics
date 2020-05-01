@@ -33,7 +33,7 @@ So, the quantizer RST pin connects to digital pin 10 on the Arduino, and all oth
 7. In the Arduino IDE, open `KassutronicsQuantizer.ino`
 8. Select Tools -> Programmer -> __Arduino as ISP__
 9. Click Tools -> Burn bootloader
-9. Click Sketch -> Upload using Programmer
+10. Click Sketch -> Upload using Programmer
 
 It will take some time to compile and then upload, and if all goes well the status bar will show _Done uploading_ in the end.
 
