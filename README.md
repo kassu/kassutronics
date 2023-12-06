@@ -6,3 +6,5 @@ This repository contains build documentation for modules that are for sale, and 
 ## See also
 - [Kassutronics blog](https://kassu2000.blogspot.com)
 - [Kassutronics store](https://store.kassutronics.net)
+
+- Added a new line just for testing the collaborative feature
